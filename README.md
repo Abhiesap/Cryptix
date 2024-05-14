@@ -1,4 +1,4 @@
-# cryptix
+# Cryptix
 
 A new Flutter project.
 
